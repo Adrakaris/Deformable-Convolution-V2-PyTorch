@@ -3,3 +3,6 @@
 _ext*
 __pycache__
 build
+dist
+moretest.py
+DCN.egg-info/
